@@ -18,7 +18,7 @@ void print_number(int n)
 	{
 		m = n;
 	}
-	
+
 	d = m;
 	count = 1;
 
