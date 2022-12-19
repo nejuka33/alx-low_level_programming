@@ -2,8 +2,9 @@
 
 /**
  * _atoi - convert the string to an integer
- * @s: input string
- * Return: integer
+ * @s:pointer to a character string.
+ *
+ * Return: void
  */
 
 int _atoi(char *s)
