@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * leet - incode
+ * leet - encode
  * @n: input value
  * Return: n value
  */
