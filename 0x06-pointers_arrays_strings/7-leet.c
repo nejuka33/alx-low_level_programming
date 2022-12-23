@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * leet - encode
+ * leet - encode in to 1337speak
  * @n: input value
  * Return: n value
  */
@@ -14,7 +14,7 @@ char *leet(char *n)
 	{
 		for (j = 0; j < 10; j++)
 		{
-			if (n[i] == s1[i])
+			if (n[i] == s1[j])
 			{
 				n[i] = s2[j];
 			}
