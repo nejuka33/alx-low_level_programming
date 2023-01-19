@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
 	{
 		printf("%02hhx", *((char *)main + count));
 		if (count < bytes - 1)
-			print(" ");
+			printf(" ");
 		else
 			printf("\n");
 	}
