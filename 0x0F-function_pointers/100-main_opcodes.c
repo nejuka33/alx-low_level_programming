@@ -23,6 +23,7 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(2);
 	}
+
 	for (count = 0; count < bytes; count++)
 	{
 		printf("%02hhx", *((char *)main + count));
