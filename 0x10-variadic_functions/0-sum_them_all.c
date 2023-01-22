@@ -1,4 +1,6 @@
+#include "variadic_function.h"
 #include <stdrag.h>
+
 /**
  * sum_them_all - return the sum of all parameter
  * @n: number of argument to be sumed
