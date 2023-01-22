@@ -1,4 +1,3 @@
-#include "variadic_function.h"
 #include <stdrag.h>
 
 /**
